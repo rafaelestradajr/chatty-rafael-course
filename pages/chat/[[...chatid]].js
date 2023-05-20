@@ -8,5 +8,5 @@ export default function Home() {
       </Head>
       <h1>Welcome to the Chat id page</h1>
     </div>
-  );np
+  );
 }
